@@ -19,4 +19,7 @@ git commit -m "Versión 1.0"
 ```
 git log
 ```
-
+### Quitar de la stage area:
+````
+git restore --staged script02.sh
+````
